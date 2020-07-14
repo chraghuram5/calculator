@@ -1,8 +1,9 @@
 .calculator{
     margin: auto;
-    background-color: aliceblue;
+    background-color: teal;
     width: 30%;
     border: 1rem solid aliceblue;
+    color: white;
 }
 
 .heading{
