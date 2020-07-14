@@ -1,0 +1,39 @@
+.calculator{
+    margin: auto;
+    background-color: aliceblue;
+    width: 30%;
+    border: 1rem solid aliceblue;
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.display{
+    height: 3rem;
+    color: black;
+    background-color: white;
+    margin-bottom: 1rem;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    height: 2rem;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.zero{
+    width: 50.5%;
+}
